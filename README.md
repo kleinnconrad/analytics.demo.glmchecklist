@@ -1,4 +1,4 @@
-[![Deploy Databricks GLM Pipeline](https://github.com/kleinnconrad/glm-checklist/actions/workflows/deploy_bundle.yml/badge.svg)](https://github.com/kleinnconrad/glm-checklist/actions/workflows/deploy_bundle.yml)
+[![Deploy Databricks GLM Pipeline](https://github.com/kleinnconrad/analytics.demo.glmchecklist/actions/workflows/deploy_bundle.yml/badge.svg)](https://github.com/kleinnconrad/analytics.demo.glmchecklist/actions/workflows/deploy_bundle.yml)
 
 
 ## Table of Contents
